@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Update <code>pages/index.js</code>
+          Update123 <code>pages/index.js</code>
         </p>
 
         <div className="grid">
