@@ -1,1 +1,1 @@
-Update Readme for [Learn Next.js](https://nextjs.org/learn).
+Help for Readme for [Learn Next.js](https://nextjs.org/learn).
