@@ -33,6 +33,7 @@ export default function Home() {
             className="card"
           >
             <h3>Examples &rarr;</h3>
+            <h2>commit1</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
