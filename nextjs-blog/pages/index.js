@@ -32,9 +32,15 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/master/examples"
             className="card"
           >
+<<<<<<< HEAD
             <h3>Examples &rarr;</h3>
             <h2>commit1</h2>
             <p>Vercel and deploy boilerplate example Next.js projects.</p>
+=======
+            <h3>Examples new &rarr;</h3>
+            <h2>commit1 new</h2>
+            <p>Discover and deploy boilerplate example Next.js projects.</p>
+>>>>>>> e04d5a20e78ddba715d0dfb8a03c3335abd19a41
           </a>
 
           <a
