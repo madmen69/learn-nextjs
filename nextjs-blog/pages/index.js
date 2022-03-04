@@ -9,9 +9,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="title">
+        <h2 className="title">
           Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        </h2>
 
         <p className="description">
           Update123 <code>pages/index.js</code>
